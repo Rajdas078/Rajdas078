@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Raj </h1>
 <h3 align="center">A Flutter Programmer and A Tech Expert</h3>
-<img align="center" alt="coding" width="400" src="https://github.com/Rajdas078/Rajdas078/blob/main/283569505_1621995591503320_4297625124421827972_n.jpg"> 
+<img align="center" alt="coding" width="350" src="https://github.com/Rajdas078/Rajdas078/blob/main/283569505_1621995591503320_4297625124421827972_n.jpg"> 
 
 
 
-<img align="center" alt="coding1" width="300" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/Animation%20-%201707770043058.gif"> 
-<img align="center" alt="coding1" width="300" src="https://github.com/Rajdas078/Rajdas078/blob/main/1%206jvzeb94lvMp0-xhqNi8kw.gif"> 
-<img align="center" alt="coding2" width="300" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/f94135193d842e240e9c1267e4d9ca89.gif"> 
+<img align="top" alt="coding1" width="250" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/Animation%20-%201707770043058.gif"> 
+
+<img align="center" alt="coding1" width="500" src="https://github.com/Rajdas078/Rajdas078/blob/main/1%206jvzeb94lvMp0-xhqNi8kw.gif"> 
+
+<img align="top" alt="coding2" width="300" src="https://github.com/Rajdas078/Shimul-Raj/blob/main/f94135193d842e240e9c1267e4d9ca89.gif"> 
 
 
 
